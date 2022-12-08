@@ -1,2 +1,2 @@
 # kaggla_ml
-this repo contains my work on kaggle competitions
+This repo contains my work on kaggle competitions
